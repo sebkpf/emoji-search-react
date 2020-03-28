@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Demo:<a href="https://emoji-search.netlify.com/" target="_blank"> https://emoji-search.netlify.com/</a>
+  Demo:<a href="https://emoji-search-react-sk.netlify.com/" target="_blank"> https://emoji-search-react-sk.netlify.com/</a>
 </p>
 <p align="center">
  This project was bootstrapped with <a href=https://github.com/facebook/create-react-app. target="_blank">Create React App</a>
